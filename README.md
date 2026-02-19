@@ -54,7 +54,7 @@ The application will automatically read this key when it starts.
 This approach keeps the API key secure and prevents exposing it in the code.
 
 📁 Project structure
-rag-genai-platform/
+```rag-genai-platform/
 │
 ├── app/
 │   ├── config.py        # Loads environment variables and configuration
@@ -66,7 +66,7 @@ rag-genai-platform/
 ├── ui.py                # Streamlit user interface
 ├── requirements.txt     # Dependencies
 ├── README.md
-
+```
 ## Installation and setup
 
 First, clone the repository:
